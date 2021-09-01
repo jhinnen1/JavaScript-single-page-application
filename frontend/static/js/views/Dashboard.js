@@ -10,7 +10,7 @@ export default class extends AbstractView {
         return `
         <h1>Welcome back!</h1>
         <p>
-            You have reached the dashboard. This application utilizes JavaScript/Node.js/Express.js and 
+            This application utilizes JavaScript/Node.js/Express.js and 
             demonstrates the "single page application" concept. Notice that you can navigate the menu, link, 
             and browser arrows without the page refreshing. Instead of the webpage changing, the HTML changes.
             <br></br>
